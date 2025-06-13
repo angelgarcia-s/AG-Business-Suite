@@ -10,8 +10,8 @@
                <!-- Start::page-header -->
                <div class="md:flex block items-center justify-between my-[1.5rem] page-header-breadcrumb">
                     <div>
-                      <p class="font-semibold text-[1.125rem] text-defaulttextcolor dark:text-defaulttextcolor/70 !mb-0 ">Welcome back, Json Taylor !</p>
-                      <p class="font-normal text-[#8c9097] dark:text-white/50 text-[0.813rem]">Track your sales activity, leads and deals here.</p>
+                      <p class="font-semibold text-[1.125rem] text-defaulttextcolor !mb-0 ">Welcome back, Json Taylor !</p>
+                      <p class="font-normal text-[#8c9097] text-[0.813rem]">Track your sales activity, leads and deals here.</p>
                     </div>
                     <div class="btn-list md:mt-0 mt-2">
                       <button type="button"
